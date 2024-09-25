@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+- 🎓 A master student of ZJU
+- 📝 A HCI researcher
+- 🪙 Designer and a tech enthusiast
+- 💞 A K-pop fan for years
+
+
 <!--
 **Haoyuan0116/Haoyuan0116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
